@@ -1,0 +1,11 @@
+*   [33m9e1c580[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m merged
+[31m|[m[32m\[m  
+[31m|[m * [33m3909f1b[m[33m ([m[1;31morigin/train_file_list_to_json[m[33m, [m[1;32mtrain_file_list_to_json[m[33m)[m train_file_list_to_json implemented
+* [32m|[m [33m0b1de63[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m train_file_list_to_json implemented?
+[32m|[m[32m/[m  
+* [33m523959a[m path_to_file_list implementation_1
+[32m|[m * [33m061269e[m[33m ([m[1;31morigin/path_to_file_list[m[33m, [m[1;32mpath_to_file_list[m[33m)[m path_to_file_list implemented
+[32m|[m[32m/[m  
+* [33m85d0b28[m[33m ([m[1;31morigin/write_file_list[m[33m, [m[1;32mwrite_file_list[m[33m)[m write_file_list implemented
+* [33m1c53845[m main code finalized
+* [33m02979a4[m initialized repository with skeleton code
